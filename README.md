@@ -31,9 +31,11 @@ Response:
 Success (200):
 json
 [
+
     { "id": 1, "distance in km": "5", "fare in Rs": "10" },
     { "id": 2, "distance in km": "10", "fare in Rs": "20" },
     { "id": 3, "distance in km ": "15 ", "fare in Rs": "30" }
+    
 ]
 3. Ride Details
 Endpoint: GET /rides/:id
