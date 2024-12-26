@@ -12,6 +12,7 @@ json
 }
 
 Responses:
+
 Success (201):
 json
 {
@@ -27,7 +28,9 @@ json
 2. List Rides
 
 Endpoint: GET /rides
+
 Response:
+
 Success (200):
 json
 [
@@ -38,20 +41,28 @@ json
     
 ]
 3. Ride Details
+
 Endpoint: GET /rides/:id
+
 Example Request: GET /rides/1
+
 Response:
 Success (200):
+
 json
 {
+
     "rideId": "1",
     "distance in kms": 60,
     "fare in Rs": 760,
     "pickupLocation": "Shimla",
     "dropLocation": "Chandigarh"
+    
 }
 Error (404):
 json
 {
+
     "message": "Ride not found."
+    
 }
