@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "Rishab",
+    "password": "rishapsecret",
+    "pickupLocation": "Shimla",
+    "dropLocation": "Chandigarh"
+  },
+  {
+    "id": 2,
+    "username": "Mehak",
+    "password": "mehak123",
+    "pickupLocation": "Bhopal",
+    "dropLocation": "Delhi"
+  },
+  {
+    "id": 3,
+    "username": "Risheek",
+    "password": "Wow",
+    "pickupLocation": "Kashmir",
+    "dropLocation": "Jammu"
+  },
+  {
+    "id": 4,
+    "username": "Pranav",
+    "password": "astha123",
+    "pickupLocation": "Dhampur",
+    "dropLocation": "Delhi"
+  }
+]

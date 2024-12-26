@@ -1,0 +1,6 @@
+[
+    { "rideId": "1", "distance in kms": 60, "fare in Rs": 760 ,"pickupLocation": "Shimla", "dropLocation" : "Chandigarh"},
+    { "rideId": "2", "distance in km": 25, "fare in Rs": 250 ,"pickupLocation": "Bhopal","dropLocation" : "Delhi"},
+    { "rideId": "3", "distance in km": 80, "fare in Rs": 930 , "pickupLocation": "Kashmir","dropLocation" : "Jammu"},
+    { "rideId": "4", "distance in km": 30, "fare in Rs": 310 ,"pickupLocation": "Dhampur", "dropLocation" : "Delhi"}
+  ]
