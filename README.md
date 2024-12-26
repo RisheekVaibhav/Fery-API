@@ -6,6 +6,7 @@ BASH:
 
 node app.js
 
+
 1. Register User
 
 Endpoint: POST /register
