@@ -1,5 +1,9 @@
 Base URL: http://localhost:3001/api
 
+TO RUN THE API:
+BASH:
+node app.js
+
 1. Register User
 
 Endpoint: POST /register
