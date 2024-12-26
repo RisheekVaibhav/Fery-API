@@ -6,9 +6,12 @@ Endpoint: POST /register
 
 Request Body:
 json
+
 {
+
     "username": "name",
     "password": "userpass"
+    
 }
 
 Responses:
