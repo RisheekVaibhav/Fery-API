@@ -29,11 +29,6 @@ json
     "message": "User registered successfully."
 }
 
-Error (400):
-json
-{
-    "message": "Username and password are required."
-}
 
 2. List Rides
 
