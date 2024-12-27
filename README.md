@@ -9,7 +9,7 @@ node app.js
 
 1. Register User
 
-Endpoint: POST /register
+Endpoint: POST /users/register
 
 Request Body:
 json
